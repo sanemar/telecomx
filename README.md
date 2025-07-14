@@ -41,6 +41,7 @@ Custo elevado e contratos mensais estão fortemente associados ao churn
 Recomendação de revisão de preços, estímulo a contratos mais longos e melhorias no onboarding
 
 📊 Resultados Visuais
+
 Este notebook exibe os gráficos com o resultado da análise visual para:
 
 Gênero vs Churn
@@ -50,5 +51,8 @@ Método de pagamento vs Churn
 Custo mensal dos clientes ao longo do tempo
 
 ✅ Conclusão
-A análise conclui que o preço percebido elevado, aliado à baixa fidelização (contratos mensais) e ao método de pagamento mais flexível, são os principais fatores associados à evasão. Estratégias de retenção devem focar em custo-benefício, fidelização e acompanhamento nos primeiros meses.
+
+Os insights mais relevantes sobre evasão de clientes foram: o preço elevado do plano, a baixa fidelização (contratos mensais) e a flexibilidade de pagamento são os desafios centrais.
+
+Para reter esses clientes, é fundamental desenvolver estratégias que destaquem o custo-benefício, promovam a fidelização e garantam um acompanhamento próximo desde o primeiro mês e criação de estratégias de preço atrativa.
 
