@@ -17,6 +17,7 @@ Tratamento e limpeza dos dados. Seguido pela normalização e padronização das
 3ª etapa
 
 Análise Exploratória (EDA)
+
 Agrupamento dos dados em tabelas para melhorar a visualização das informações potenciais que podem ser insights valiosos.
 
 4ª etapa
@@ -27,18 +28,13 @@ Seu desafio será coletar, tratar e analisar os dados, utilizando Python e suas 
 
 
 Estatísticas descritivas
+
 Distribuição por gênero, idade e tipo de serviço
 Frequência de churn por contrato e forma de pagamento
 Comportamento de custo por tempo de contrato
 Geração de Gráficos
 
 Gráficos de barras usando a comparação entre clientes com e sem churn
-
-Conclusões e Recomendações
-
-Custo elevado e contratos mensais estão fortemente associados ao churn
-"Electronic check" se mostrou o método de pagamento com maior incidência de cancelamentos
-Recomendação de revisão de preços, estímulo a contratos mais longos e melhorias no onboarding
 
 📊 Resultados Visuais
 
@@ -50,9 +46,9 @@ Tipo de contrato vs Churn
 Método de pagamento vs Churn
 Custo mensal dos clientes ao longo do tempo
 
-✅ Conclusão
+✅ Conclusões
 
-Os insights mais relevantes sobre evasão de clientes foram: o preço elevado do plano, a baixa fidelização (contratos mensais) e a flexibilidade de pagamento são os desafios centrais.
+Os insights mais relevantes sobre evasão de clientes foram: o preço elevado do plano, a baixa fidelização por meio de contratos mensais e a flexibilidade de pagamento, tauis como "Electronic check" são os desafios centrais.
 
-Para reter esses clientes, é fundamental desenvolver estratégias que destaquem o custo-benefício, promovam a fidelização e garantam um acompanhamento próximo desde o primeiro mês e criação de estratégias de preço atrativa.
+Para reter esses clientes, é fundamental desenvolver estratégias que destaquem o custo-benefício, promovam a fidelização e garantam um acompanhamento próximo desde o primeiro mês e criação de estratégias de preço que modifiquem a forma de contratação e tornem os preços mais atrativos.
 
