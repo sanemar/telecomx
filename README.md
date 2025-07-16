@@ -1,52 +1,43 @@
-Projeto Churn de Clientes da Empresa TELECOM X
+<h2>Projeto Churn de Clientes da Empresa TELECOM X</h2>
 
-Propósito da análise:
+✅ <b>Propósito da análise:</b>
 
 Este projeto consiste em descobrir o motivo do alto índice de cancelamentos a fim de esclarecer os fatores que a levam à perda de clientes.
 
-Estrutura do projeto e organização dos arquivos.
+<h3>Estrutura do projeto e organização dos arquivos.</h3>
 
-1ª etapa
+<b>1ª etapa</b>
 
-Importação e carga do arquivo Json fornecido pela empresa TELECOM X.
+* Importação e carga do arquivo Json fornecido pela empresa TELECOM X.
 
-2ª etapa
+<b>2ª etapa</b>
 
-Tratamento e limpeza dos dados. Seguido pela normalização e padronização das variáveis agrupanda-as no DataFrame denominado 'df_normalizado'
+* Tratamento e limpeza dos dados. Seguido pela normalização e padronização das variáveis agrupanda-as no DataFrame denominado 'df_normalizado'
 
-3ª etapa
+<b>3ª etapa</b>
 
-Análise Exploratória (EDA)
+* Análise Exploratória (EDA)
+* Agrupamento dos dados em tabelas para melhorar a visualização das informações potenciais que podem ser insights valiosos.
 
-Agrupamento dos dados em tabelas para melhorar a visualização das informações potenciais que podem ser insights valiosos.
+<b>4ª etapa</b>
 
-4ª etapa
+* Criação dos gráficos com base nas tabelas agrupadas anteriormente, comparando clientes com e sem churn
+* Distribuição por gênero, idade e tipo de serviço
+* Frequência de churn por contrato e forma de pagamento
+* Comportamento de custo por tempo de contrato
 
-Criação dos gráficos com base nas tabelas agrupadas anteriormente.
 
-Seu desafio será coletar, tratar e analisar os dados, utilizando Python e suas principais bibliotecas para extrair insights valiosos. A partir da sua análise, os demais colegas da  equipe de Data Science poderá avançar para modelos preditivos e desenvolver estratégias para reduzir a evasão.
-
-
-Estatísticas descritivas
-
-Distribuição por gênero, idade e tipo de serviço
-Frequência de churn por contrato e forma de pagamento
-Comportamento de custo por tempo de contrato
-Geração de Gráficos
-
-Gráficos de barras usando a comparação entre clientes com e sem churn
-
-📊 Resultados Visuais
+📊 <b>Resultados Visuais</b>
 
 Este notebook exibe os gráficos com o resultado da análise visual para:
 
-Gênero vs Churn
-Senioridade vs Churn
-Tipo de contrato vs Churn
-Método de pagamento vs Churn
-Custo mensal dos clientes ao longo do tempo
+* Gênero vs Churn
+* Senioridade vs Churn
+* Tipo de contrato vs Churn
+* Método de pagamento vs Churn
+* Custo mensal dos clientes ao longo do tempo
 
-✅ Conclusões
+<h3>Conclusões</h3>
 
 Os insights mais relevantes sobre evasão de clientes foram: o preço elevado do plano, a baixa fidelização por meio de contratos mensais e a flexibilidade de pagamento, tauis como "Electronic check" são os desafios centrais.
 
